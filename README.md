@@ -1,7 +1,7 @@
 # EduFlow
 EduFlow Grader - Assignment Correction System
 
-# 📚 EduFlow Grader - AI-Powered Assignment Correction System
+# EduFlow Grader - AI-Powered Assignment Correction System
 
 <div align="center">
 
