@@ -1,5 +1,5 @@
 # EduFlow
-EduFlow Grader - Assignment Correction System
+EduFlow Grader - Assignment Correction System Simulator
 
 # EduFlow Grader - AI-Powered Assignment Correction System
 
